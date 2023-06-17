@@ -50,7 +50,7 @@ Alternatively, you can download the repository as a ZIP file and extract it to y
 2. Open the Notebook in Google Colab
 Go to the following link to open the notebook in Google Colab:
 
-[Sentiment Analysis Notebook] (https://colab.research.google.com/drive/18hlkut6_OA1V-n-FqsvLLzlHoU84zyXW?usp=sharing)
+[Sentiment Analysis Notebook](https://colab.research.google.com/drive/18hlkut6_OA1V-n-FqsvLLzlHoU84zyXW?usp=sharing)
 
 Click on "Open in Colab" to launch the notebook in Google Colab.
 
